@@ -1,0 +1,9 @@
+PatientGender,PatientRace,numberOfPatient,AVG_PatientBelowPovertyPercent,MAX_PatientBelowPovertyPercent,MIN_PatientBelowPovertyPercent
+Female,White,25546,21.58,99.98,0.01
+Female,Asian,12025,21.48,99.99,0
+Female,"African American",7798,21.56,99.99,0.03
+Female,Unknown,6631,21.2,99.94,0.01
+Male,White,23454,21.47,100,0
+Male,Asian,10975,22.1,99.96,0
+Male,"African American",7202,21.22,99.94,0.04
+Male,Unknown,6369,21.73,99.91,0

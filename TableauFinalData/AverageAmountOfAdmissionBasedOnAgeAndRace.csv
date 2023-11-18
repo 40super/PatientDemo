@@ -1,0 +1,17 @@
+patientAgeRange,PatientRace,Average_Admission_Times
+81+,Asian,3.00
+81+,White,2.98
+81+,Unknown,2.97
+81+,"African American",2.96
+61-80,Asian,2.73
+61-80,White,2.73
+61-80,Unknown,2.71
+61-80,"African American",2.70
+"37 - 60",White,2.30
+"37 - 60","African American",2.29
+"37 - 60",Unknown,2.28
+"37 - 60",Asian,2.27
+"19 - 36",Asian,1.20
+"19 - 36",White,1.19
+"19 - 36",Unknown,1.17
+"19 - 36","African American",1.16

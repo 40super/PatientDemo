@@ -1,0 +1,41 @@
+patientAgeRange,PrimaryDiagnosisCode,PrimaryDiagnosisDescription,CountOfDiagnosis,Rank_D
+81+,O10.13,"Pre-existing hypertensive heart disease complicating the puerperium",57,1
+61-80,Z12,"Encounter for screening for malignant neoplasms",80,1
+"37 - 60",C47.12,""Malignant neoplasm of peripheral nerves of left upper limb",74,1
+"19 - 36",M11.0,"Hydroxyapatite deposition disease",7,1
+81+,M12.141,""Kaschin-Beck disease",56,2
+61-80,C49.5,"Malignant neoplasm of connective and soft tissue of pelvis",80,2
+"37 - 60",C94.30,"Mast cell leukemia not having achieved remission",69,2
+"19 - 36",N08,"Glomerular disorders in diseases classified elsewhere",7,2
+81+,M05.121,"Rheumatoid lung disease with rheumatoid arthritis of right elbow",54,3
+61-80,B73.1,"Onchocerciasis without eye disease",80,3
+"37 - 60",C92.2,""Atypical chronic myeloid leukemia",69,3
+"19 - 36",M06.31,""Rheumatoid nodule",7,3
+81+,D32.0,"Benign neoplasm of cerebral meninges",54,4
+61-80,D13.1,"Benign neoplasm of stomach",80,4
+"37 - 60",M05.42,"Rheumatoid myopathy with rheumatoid arthritis of elbow",68,4
+"19 - 36",D29.31,"Benign neoplasm of right epididymis",7,4
+81+,N36.4,"Urethral functional and muscular disorders",54,5
+61-80,D83.1,"Common variable immunodeficiency with predominant immunoregulatory T-cell disorders",78,5
+"37 - 60",Q62.7,"Congenital vesico-uretero-renal reflux",66,5
+"19 - 36",H05.32,"Deformity of orbit due to bone disease",6,5
+81+,M90.852,""Osteopathy in diseases classified elsewhere",53,6
+61-80,C10.8,"Malignant neoplasm of overlapping sites of oropharynx",77,6
+"37 - 60",E10.43,"Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy",66,6
+"19 - 36",C20,"Malignant neoplasm of rectum",6,6
+81+,M11.031,""Hydroxyapatite deposition disease",53,7
+61-80,M06.252,""Rheumatoid bursitis",77,7
+"37 - 60",E10.65,"Type 1 diabetes mellitus with hyperglycemia",65,7
+"19 - 36",P26,"Pulmonary hemorrhage originating in the perinatal period",6,7
+81+,C74.12,"Malignant neoplasm of medulla of left adrenal gland",53,8
+61-80,R94.3,"Abnormal results of cardiovascular function studies",77,8
+"37 - 60",D30.1,"Benign neoplasm of renal pelvis",65,8
+"19 - 36",C57.02,"Malignant neoplasm of left fallopian tube",5,8
+81+,D15.0,"Benign neoplasm of thymus",53,9
+61-80,B97.12,"Echovirus as the cause of diseases classified elsewhere",76,9
+"37 - 60",C78.02,"Secondary malignant neoplasm of left lung",65,9
+"19 - 36",D16.7,""Benign neoplasm of ribs",5,9
+81+,C10,"Malignant neoplasm of oropharynx",53,10
+61-80,F52.2,"Sexual arousal disorders",76,10
+"37 - 60",F33,""Major depressive disorder",64,10
+"19 - 36",E11.351,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema",5,10

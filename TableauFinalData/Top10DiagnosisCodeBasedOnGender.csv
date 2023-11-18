@@ -1,0 +1,21 @@
+PatientGender,PrimaryDiagnosisCode,PrimaryDiagnosisDescription,CountOfDiagnosis,Rank_D
+Female,C47.12,""Malignant neoplasm of peripheral nerves of left upper limb",111,1
+Male,I08,"Multiple valve diseases",97,1
+Female,K50.813,"Crohn's disease of both small and large intestine with fistula",100,2
+Male,D83.1,"Common variable immunodeficiency with predominant immunoregulatory T-cell disorders",94,2
+Female,D65,"Disseminated intravascular coagulation [defibrination syndrome]",100,3
+Male,F91.1,""Conduct disorder",93,3
+Female,C02.0,"Malignant neoplasm of dorsal surface of tongue",100,4
+Male,E08.341,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema",93,4
+Female,C57.02,"Malignant neoplasm of left fallopian tube",99,5
+Male,C80.2,"Malignant neoplasm associated with transplanted organ",92,5
+Female,G52.2,"Disorders of vagus nerve",98,6
+Male,T46.3X3,""Poisoning by coronary vasodilators",91,6
+Female,C34.32,""Malignant neoplasm of lower lobe",97,7
+Male,M06.311,""Rheumatoid nodule",91,7
+Female,M01.X4,"Direct infection of hand in infectious and parasitic diseases classified elsewhere",97,8
+Male,D14.31,"Benign neoplasm of right bronchus and lung",90,8
+Female,M84.571,""Pathological fracture in neoplastic disease",96,9
+Male,M05.241,"Rheumatoid vasculitis with rheumatoid arthritis of right hand",90,9
+Female,O24.01,""Pre-existing diabetes mellitus",95,10
+Male,C49.5,"Malignant neoplasm of connective and soft tissue of pelvis",90,10

@@ -1,0 +1,41 @@
+PatientRace,PrimaryDiagnosisCode,PrimaryDiagnosisDescription,CountOfDiagnosis,Rank_D
+White,C47.12,""Malignant neoplasm of peripheral nerves of left upper limb",94,1
+Asian,G60.1,"Refsum's disease",58,1
+"African American",Y71.3,""Surgical instruments",36,1
+Unknown,A81.0,"Creutzfeldt-Jakob disease",32,1
+White,C30.1,"Malignant neoplasm of middle ear",94,2
+Asian,M06.02,""Rheumatoid arthritis without rheumatoid factor",56,2
+"African American",M12.121,""Kaschin-Beck disease",35,2
+Unknown,M49.83,""Spondylopathy in diseases classified elsewhere",31,2
+White,O99.51,"Diseases of the respiratory system complicating pregnancy",94,3
+Asian,D41.4,"Neoplasm of uncertain behavior of bladder",51,3
+"African American",B08.02,"Orf virus disease",35,3
+Unknown,M1A.35,""Chronic gout due to renal impairment",31,3
+White,E74.1,"Disorders of fructose metabolism",93,4
+Asian,E84.0,"Cystic fibrosis with pulmonary manifestations",50,4
+"African American",D14.31,"Benign neoplasm of right bronchus and lung",35,4
+Unknown,I27.0,"Primary pulmonary hypertension",30,4
+White,D65,"Disseminated intravascular coagulation [defibrination syndrome]",93,5
+Asian,M01.X4,"Direct infection of hand in infectious and parasitic diseases classified elsewhere",50,5
+"African American",M26.6,"Temporomandibular joint disorders",35,5
+Unknown,C12,"Malignant neoplasm of pyriform sinus",30,5
+White,M49,"Spondylopathies in diseases classified elsewhere",92,6
+Asian,F60.5,"Obsessive-compulsive personality disorder",50,6
+"African American",N04.6,"Nephrotic syndrome with dense deposit disease",34,6
+Unknown,M05.43,"Rheumatoid myopathy with rheumatoid arthritis of wrist",30,6
+White,E10.1,"Type 1 diabetes mellitus with ketoacidosis",92,7
+Asian,C18.2,"Malignant neoplasm of ascending colon",50,7
+"African American",B95,""Streptococcus",34,7
+Unknown,M05.55,"Rheumatoid polyneuropathy with rheumatoid arthritis of hip",30,7
+White,B97.1,"Enterovirus as the cause of diseases classified elsewhere",91,8
+Asian,H26.221,""Cataract secondary to ocular disorders (degenerative) (inflammatory)",49,8
+"African American",Z12.82,"Encounter for screening for malignant neoplasm of nervous system",34,8
+Unknown,C18,"Malignant neoplasm of colon",30,8
+White,E75.243,"Niemann-Pick disease type D",91,9
+Asian,C34.2,""Malignant neoplasm of middle lobe",49,9
+"African American",C41.4,""Malignant neoplasm of pelvic bones",34,9
+Unknown,C40.01,"Malignant neoplasm of scapula and long bones of right upper limb",29,9
+White,D13.9,"Benign neoplasm of ill-defined sites within the digestive system",90,10
+Asian,D57.21,"Sickle-cell/Hb-C disease with crisis",49,10
+"African American",C51.0,"Malignant neoplasm of labium majus",33,10
+Unknown,F21,"Schizotypal disorder",29,10

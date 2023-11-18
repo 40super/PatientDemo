@@ -1,0 +1,9 @@
+PatientGender,PatientRace,NumberOfPatient
+Female,White,25546
+Female,Asian,12025
+Female,"African American",7798
+Female,Unknown,6631
+Male,White,23454
+Male,Asian,10975
+Male,"African American",7202
+Male,Unknown,6369

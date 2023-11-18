@@ -1,0 +1,3 @@
+PatientGender,COUNT(PatientGender),AVG_PatientBelowPovertyPercent,MAX_PatientBelowPovertyPercent,MIN_PatientBelowPovertyPercent
+Female,52000,21.51,99.99,0
+Male,48000,21.61,100,0
